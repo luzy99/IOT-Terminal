@@ -31,4 +31,8 @@ An IOT Terminal based on M5GO(chip: ESP32). The communication system is powered 
 
    `MqttTrans`为利用`Mirai`提供的Java API 编写的MQTT转发插件，同时包括`JFreeChart`图表绘制模块，及JDBC数据库连接访问模块。
    
-3. 一些心得见[some tips](https://github.com/luzy99/IOT-Terminal/blob/master/some%20tips.md)
+3. **业务流程**
+
+   ![image-20200512214328080](https://i.loli.net/2020/05/12/6GudMrUc1EvBisY.png)
+
+4. **一些心得**见[some tips](https://github.com/luzy99/IOT-Terminal/blob/master/some%20tips.md)
