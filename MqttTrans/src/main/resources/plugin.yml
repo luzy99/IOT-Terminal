@@ -1,0 +1,6 @@
+name: "MqttTrans"
+author: "luzy"
+version: "0.1.0"
+main: "com.m5go.plugin.MqttTransMain"
+info: "mqtt转发插件"
+depends: []
