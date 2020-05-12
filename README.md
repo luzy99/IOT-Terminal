@@ -59,5 +59,9 @@ An IOT Terminal based on M5GO(chip: ESP32). The communication system is powered 
 
    <img src="https://i.loli.net/2020/05/13/gwkCmRPyVc47qhx.png" alt="image-20200513003449572" style="zoom:67%;" />
 
+   6）QQ远程操控功能列表
+
+   ​	![image-20200513005225953](https://i.loli.net/2020/05/13/gv2mpi9ePOXJ1nZ.png)
+
 4. **一些心得**见[some tips](https://github.com/luzy99/IOT-Terminal/blob/master/some%20tips.md)
 
