@@ -5,7 +5,7 @@ An IOT Terminal based on M5GO(chip: ESP32). The communication system is powered 
 
 ## 项目使用说明
 
-1. **ESP32部分**
+1. **M5STACK部分**
 
    `myapp`	该部分采用C语言编写，借助Arduino及第三方库编译。
 
